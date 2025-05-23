@@ -9,8 +9,9 @@ public class RandomNum {
       int number2;
       int number3;
 
-      number1 = random.nextInt(16);
+      number1 = random.nextInt(16,4);
       System.out.println(number1);
+      
 
 
     }
