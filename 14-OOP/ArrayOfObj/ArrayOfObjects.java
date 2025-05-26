@@ -1,3 +1,4 @@
+package ArrayOfObj;
 public class ArrayOfObjects {
     public static void main(String[] args) {
         // Car2 car1 = new Car2("Mustang", "Red");

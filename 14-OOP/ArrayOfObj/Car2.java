@@ -1,3 +1,4 @@
+package ArrayOfObj;
 public class Car2 {
     String model;
     String color;

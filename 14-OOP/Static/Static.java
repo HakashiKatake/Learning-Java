@@ -1,3 +1,4 @@
+package Static;
 public class Static {
     public static void main(String[] args) {
         //static = makes a variable or method belong to the class
